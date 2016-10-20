@@ -1,3 +1,3 @@
 # Sorting Algorithms
 
-Different programs to implemet different sorting algorithm.
+Different programs to implemet different sorting algorithms.
